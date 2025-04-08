@@ -1,0 +1,7 @@
+{
+  "name": "revisao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
